@@ -20,3 +20,6 @@ $ cat external-scripts.json
   "hubot-youtube"
 ]
 ここでhubot-redis-brainを削除でないと，メモリエラーをずっと訴えてくる．．．
+
+参考資料　Hello worldを言わせるまで
+http://qiita.com/makoto1007/items/8ce93c8d418b25988b03
