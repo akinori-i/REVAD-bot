@@ -64,4 +64,9 @@ https://github.com/github/hubot-scripts/blob/master/src/scripts/github-commiters
 
 と送るとコミッター情報を返す。
 `<repo>`はリポジトリ名(例：OSSresearch-SuperTeam/REVAD-bot)
->>>>>>> revad/master
+=======
+
+### github-pulls.coffee
+プルリクエストのアサインされた開発者を表示(closeされたもののみ)
+
+`revad-bot repo pulls <repo>`
