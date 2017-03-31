@@ -1,5 +1,0 @@
-#export HUBOT_SLACK_TOKEN=xoxb-153940770418-wALU07hvsxVEAVxWFjeruaQ7
-#export HUBOT_SLACK_TEAM=Revad-bot Test
-#export HUBOT_SLACK_BOTNAME=revad-bot
-export HUBOT_GITHUB_TOKEN=9b87e6c4833de690ff1897776c5879e12a000ea0
-./bin/hubot
